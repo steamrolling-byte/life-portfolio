@@ -14,7 +14,7 @@ aboutTitle: "A little about me",
 
 about: "I enjoy meaningful conversations built on sincerity, openness, and honesty, without unnecessary filters. I have a good sense of humor and enjoy jokes of all kinds. My interests include history, philosophy, psychology, self-development, movies, travel, and much more! I'm currently single, and my past dating experiences have helped me become more empathetic, emotionally mature, and thoughtful about relationships. I've learned to appreciate genuine connections, mutual understanding, and relationships built on shared values.", This is your space to introduce yourself in your own words.",
     quote: "The best stories are the ones we live.",
-    portrait: "assets/portrait.svg",
+    portrait: "assets/portrait_me",
     cover: "assets/cover.svg",
     highlights: [
       {value:"Curiosity",label:"WHAT DRIVES ME"},
