@@ -2,14 +2,17 @@
    Photos: put files inside assets/photos/ and use paths such as "assets/photos/me.jpg".
    Everything below is sample content, NOT real information about you. */
 window.PORTFOLIO = {
-  name: "Your Name",
+  name: "Tural",
   tagline: "A collection of places, people, and experiences that shaped me.",
   bio: {
     eyebrow: "WELCOME TO MY WORLD",
-    heading: "A life made of stories.",
-    intro: "Hello, I'm Your Name. This is a small window into my life — the places I've explored, the lessons I've learned, and the moments that stayed with me.",
-    aboutTitle: "A little about me",
-    about: "Write a few authentic paragraphs about where you come from, what matters to you, and what has influenced your outlook on life. This is your space to introduce yourself in your own words.",
+    heading: "Hi, I'm Tural.",
+
+intro: "My name is Tural, and I was born in 1993 in Baku, Azerbaijan. I currently live in Kraków, Poland.",
+
+aboutTitle: "A little about me",
+
+about: "I enjoy meaningful conversations built on sincerity, openness, and honesty, without unnecessary filters. I have a good sense of humor and enjoy jokes of all kinds. My interests include history, philosophy, psychology, self-development, movies, travel, and much more! I'm currently single, and my past dating experiences have helped me become more empathetic, emotionally mature, and thoughtful about relationships. I've learned to appreciate genuine connections, mutual understanding, and relationships built on shared values.", This is your space to introduce yourself in your own words.",
     quote: "The best stories are the ones we live.",
     portrait: "assets/portrait.svg",
     cover: "assets/cover.svg",
